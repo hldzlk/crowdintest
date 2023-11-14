@@ -15,6 +15,7 @@
   "enableLineBreak": "开启长段落自动换行",
   "sponsorLabel": "$1 起赞助开发者",
   "help": "帮助",
+  "help2": "帮助大家",
   "browserShortcutsNoteForFirefox": "Firefox 浏览器修改快捷键需要打开扩展管理页面 `about:addons`，然后点击「设置」，再点击「管理快捷键」即可设置",
   "browserShortcutsNoteForChrome": "类Chrome 浏览器修改快捷键需要打开扩展管理页面，在`管理快捷键`面板(`chrome://extensions/shortcuts`)设置，点击下方按钮跳转到快捷键管理页面。",
   "browserShortcutsSucks": "自定义快捷键格式为 (没有做自动识别，请直接输入)：",
