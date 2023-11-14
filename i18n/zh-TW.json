@@ -15,7 +15,7 @@
   "enableLineBreak": "開啟長篇自動換行",
   "sponsorLabel": "$1起贊助開發者",
   "help": "幫助",
-  "help2": "帮助大家",
+  "help2": "幫助大家",
   "browserShortcutsNoteForFirefox": "Firefox瀏覽器修改快捷鍵需要開啟擴充功能管理頁面`about:addons`，然後點擊「設定」，再點擊「管理快捷鍵」即可設置",
   "browserShortcutsNoteForChrome": "類Chrome瀏覽器快速鍵需要開啟擴充管理頁面，在`管理快速鍵`面板(`chrome://extensions/shortcuts`)修改設置，點選下方按鈕跳到快捷鍵管理頁面。",
   "browserShortcutsSucks": "自訂快捷鍵格式為 (不做自動識別，請直接輸入)：",
