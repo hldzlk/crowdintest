@@ -1,9 +1,9 @@
 {
   "nologin": "Not logged in",
-  "loginForSafari": "登录或注册",
+  "loginForSafari": "Sign In or Sign Up",
   "login": "Login",
   "manageAccount": "Manage Account",
-  "openPremium": "开通会员",
+  "openPremium": "Join membership",
   "logout": "Logout",
   "curentPlan": "Current Plan",
   "endAt": "Expires",
