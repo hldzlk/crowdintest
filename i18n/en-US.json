@@ -15,7 +15,7 @@
   "enableLineBreak": "Whether to turn on automatic line wrapping for long paragraphs",
   "sponsorLabel": "Sponsoring developers from $1 (monthly or one-time)",
   "help": "Help",
-  "help2": "帮助大家",
+  "help2": "Help 2",
   "browserShortcutsNoteForFirefox": "To modify the shortcut key in Firefox browser, you need to open the extension management page 'about:addons', then click \"Settings\", and then click \"Management shortcut key\" to set it",
   "browserShortcutsNoteForChrome": "To modify the shortcut key in Chrome browser, you need to open the extension management page` chrome://extensions/shortcuts `) Settings, click the button below to jump to the shortcut key management page.",
   "browserShortcutsSucks": "Please enter the shortcut key manually in the format:",
